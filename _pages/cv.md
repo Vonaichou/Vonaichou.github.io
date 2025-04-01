@@ -38,6 +38,8 @@ English Language and Literature *(Commendation)*
 
 English Teaching  
 
+<br><br>
+
 Work experience
 ======
 ### **Huizhou University, Guangdong** *(Aug 2022 - Present)*  
@@ -61,31 +63,41 @@ Work experience
 ### **ITL Translation Company, UK** *(Jan 2015 - Dec 2018)*  
 **Translator (Part-time)**  
 - Provided **interpretation & translation services** for **police authorities, NHS, and local government organizations**.  
-  
+
+<br><br>
+
 Professional and public services
 ======
 - **Reviewer** for proposals at the *American Association for Applied Linguistics (AAAL)*.  
 - **Peer Reviewer** for *Classroom Discourse*, *The Language Learning Journal*, and *The Asia-Pacific Education Researcher*.  
 - **Member** of the *Special Interest Group for Translanguaging and Inclusive Education (SIG-TIE)*, Faculty of Education, The University of Hong Kong (HKU).  
 
+<br><br>
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<br><br>
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
+<br><br>
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<br><br>
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
