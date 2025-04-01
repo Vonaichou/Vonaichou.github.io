@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+ <div style="margin-top: 50px;"></div> 
+
 
 Education
 ======
