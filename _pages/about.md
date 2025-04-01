@@ -22,4 +22,4 @@ Latest Updates
 
 Contact
 ------
-Feel free to reach out via [email](miaomiao_sophia@163.com) or connect on [Google Scholar](https://scholar.google.co.uk/citations?user=4imhIQYAAAAJ&hl=en&oi=ao)/[ResearchGate](https://www.researchgate.net/profile/Miaomiao-Zuo).
+Feel free to reach out via [email:]<miaomiao_sophia@163.com> or connect on [Google Scholar](https://scholar.google.co.uk/citations?user=4imhIQYAAAAJ&hl=en&oi=ao)/[ResearchGate](https://www.researchgate.net/profile/Miaomiao-Zuo).
