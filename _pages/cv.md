@@ -11,21 +11,30 @@ redirect_from:
 
 Education
 ======
-### PhD, Newcastle University, UK (April 2014 - Jan 2019)  
-**School of Education, Communication and Language Sciences**  
-- Educational and Applied Linguistics  
+### **PhD | Newcastle University, UK** *(April 2014 - Jan 2019)* <br>   
 
-### MA, Northumbria University, UK (Feb 2012 - Jun 2013)  
-**School of Humanities and Languages**  
-- Applied Linguistics and TESOL (Commendation)  
+**School of Education, Communication and Language Sciences** 
 
-### MA, Guizhou University, PRC (Sep 2005 - Jul 2008)  
-**School of Foreign Languages**  
-- English Language and Literature (Commendation)  
+Educational and Applied Linguistics  
 
-### BA, Shenyang Normal University, PRC (Sep 2000 - Jul 2004)  
-**School of Foreign Languages**  
-- English Teaching  
+
+### **MA | Northumbria University, UK** *(Feb 2012 - Jun 2013)* <br>  
+
+**School of Humanities and Languages** 
+
+Applied Linguistics and TESOL *(Commendation)*  
+
+### **MA | Guizhou University, PRC** *(Sep 2005 - Jul 2008)* <br>
+
+**School of Foreign Languages**   
+
+English Language and Literature *(Commendation)*  
+
+### **BA | Shenyang Normal University, PRC** *(Sep 2000 - Jul 2004)*  <br>
+
+**School of Foreign Languages**   
+
+English Teaching  
 
 Work experience
 ======
