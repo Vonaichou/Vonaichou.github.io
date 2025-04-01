@@ -11,9 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### PhD, Newcastle University, UK (April 2014 - Jan 2019)  
+**School of Education, Communication and Language Sciences**  
+- Educational and Applied Linguistics  
+
+### MA, Northumbria University, UK (Feb 2012 - Jun 2013)  
+**School of Humanities and Languages**  
+- Applied Linguistics and TESOL (Commendation)  
+
+### MA, Guizhou University, PRC (Sep 2005 - Jul 2008)  
+**School of Foreign Languages**  
+- English Language and Literature (Commendation)  
+
+### BA, Shenyang Normal University, PRC (Sep 2000 - Jul 2004)  
+**School of Foreign Languages**  
+- English Teaching  
 
 Work experience
 ======
