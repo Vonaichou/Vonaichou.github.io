@@ -40,29 +40,33 @@ English Teaching
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### **Huizhou University, Guangdong** *(Aug 2022 - Present)*  
+**Lecturer | School of Foreign Languages**  
+- Teaching undergraduate programmes: *Second Language Acquisition*, *English-Chinese/Chinese-English Translation*, *Practical Translation*. Content includes EFL learning, teacher development, syllabus design, and translation techniques.  
+- **Student Mentor**: Mentoring students; several provincial student prizes attained.  
+- Supervising dissertations covering topics in EFL education.  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### **Anyang Normal University, Henan, PRC** *(Jul 2019 - Jul 2022)*  
+**Lecturer | School of Foreign Languages**  
+- Teaching *English-Chinese/Chinese-English Translation* and [*English for Critical Thinking*](https://www.icourse163.org/course/AYNU-1206707837?tid=1474009442).  
+- Supervising undergraduate theses.  
+- **Student Mentor**: Mentoring undergraduate innovation and entrepreneurship programmes, successfully securing **national and provincial-level funding for three consecutive years**.  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### **Newcastle University, UK** *(Sep 2015 - Jan 2019)*  
+**Teaching/Research Assistant | School of Education, Communication and Language Sciences**  
+- Leading seminars and tutorials, setting assessments, and grading for postgraduate programmes.  
+- Conducting literature review and drafting for an international student critical thinking research project:  
+  *Deficit, Deficient, or Different Learners: A Three-Decade Review on Critical Thinking Abilities of Students in Higher Education—What Have We Missed?*  
+
+### **ITL Translation Company, UK** *(Jan 2015 - Dec 2018)*  
+**Translator (Part-time)**  
+- Provided **interpretation & translation services** for **police authorities, NHS, and local government organizations**.  
   
-Skills
+Professional and public services
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Reviewer** for proposals at the *American Association for Applied Linguistics (AAAL)*.  
+- **Peer Reviewer** for *Classroom Discourse*, *The Language Learning Journal*, and *The Asia-Pacific Education Researcher*.  
+- **Member** of the *Special Interest Group for Translanguaging and Inclusive Education (SIG-TIE)*, Faculty of Education, The University of Hong Kong (HKU).  
 
 Publications
 ======
