@@ -6,8 +6,7 @@ permalink: "/publication/2025-02-10-Navigating-for-Positive-Group-Dynamics-Throu
 date: 2025-02-10
 venue: "Asia-Pacific Education Researcher"
 paperurl: "https://link.springer.com/article/10.1007/s40299-025-00971-5#citeas"
-<br>
-citation: "Zuo, M. (2025). Navigating for positive group dynamics through emotion regulation: A multimodal conversation analysis on teacher discussions in Chinese EFL curriculum development. <li>Asia-Pacific Education Researcher</li>."<https://doi.org/10.1007/s40299-025-00971-5>"
+citation: "Zuo, M. (2025). Navigating for positive group dynamics through emotion regulation: A multimodal conversation analysis on teacher discussions in Chinese EFL curriculum development. *Asia-Pacific Education Researcher*. https://doi.org/10.1007/s40299-025-00971-5"
 ---
 
 Abstract
