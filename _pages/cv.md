@@ -32,6 +32,7 @@ Applied Linguistics and TESOL *(Commendation)*
 
 English Language and Literature *(Commendation)*  
 
+<br>
 
 Work experience
 ======
@@ -57,6 +58,7 @@ Work experience
 **Translator (Part-time)**  
 - Provided **interpretation & translation services** for **police authorities, NHS, and local government organizations**.  
 
+<br>
 
 Professional and public services
 ======
@@ -64,6 +66,7 @@ Professional and public services
 - **Peer Reviewer** for *Classroom Discourse*, *The Language Learning Journal*, and *The Asia-Pacific Education Researcher*.  
 - **Member** of the *Special Interest Group for Translanguaging and Inclusive Education (SIG-TIE)*, Faculty of Education, The University of Hong Kong (HKU).  
 
+<br>
 
 Publications
 ======
@@ -71,6 +74,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+<br>
 
 Talks
 ======
@@ -78,6 +82,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
+<br>
 
 Teaching
 ======
@@ -85,6 +90,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+<br>
 
 Service and leadership
 ======
