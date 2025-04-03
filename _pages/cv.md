@@ -32,6 +32,7 @@ Applied Linguistics and TESOL *(Commendation)*
 
 English Language and Literature *(Commendation)*  
 
+
 Work experience
 ======
 ### **Huizhou University, Guangdong** *(Aug 2022 - Present)*  
@@ -56,7 +57,6 @@ Work experience
 **Translator (Part-time)**  
 - Provided **interpretation & translation services** for **police authorities, NHS, and local government organizations**.  
 
-<br><br>
 
 Professional and public services
 ======
@@ -64,7 +64,6 @@ Professional and public services
 - **Peer Reviewer** for *Classroom Discourse*, *The Language Learning Journal*, and *The Asia-Pacific Education Researcher*.  
 - **Member** of the *Special Interest Group for Translanguaging and Inclusive Education (SIG-TIE)*, Faculty of Education, The University of Hong Kong (HKU).  
 
-<br><br>
 
 Publications
 ======
@@ -72,7 +71,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<br><br>
 
 Talks
 ======
@@ -80,7 +78,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-<br><br>
 
 Teaching
 ======
@@ -88,7 +85,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<br><br>
 
 Service and leadership
 ======
