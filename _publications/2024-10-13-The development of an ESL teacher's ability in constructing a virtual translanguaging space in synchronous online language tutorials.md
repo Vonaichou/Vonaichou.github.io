@@ -1,12 +1,12 @@
 ---
 title: "The development of an ESL teacher's ability in constructing a virtual translanguaging space in synchronous online language tutorials"
-collection: publications
-category: manuscripts
-permalink: "/publication/2024-10-13-The development of an ESL teacher's ability in constructing a virtual translanguaging space in synchronous online language tutorials"
-date: 2024-10-13
+collection: "publications"
+category: "manuscripts"
+permalink: "/publication/2024-10-13-The-development-of-an-ESL-teacher's-ability-in-constructing-a-virtual-translanguaging-space-in-synchronous-online-language-tutorials"
+date: "2024-10-13"
 venue: "Linguistics and Education"
 paperurl: "https://www.sciencedirect.com/science/article/pii/S0898589824000445"
-citation: 'Tai, K. W. H., & Zuo, M. (2024). The development of an ESL teacher's ability in constructing a virtual translanguaging space in synchronous online language tutorials. <i>Linguistics and Education</i>, 83, 101311. https://doi.org/10.1016/j.linged.2024.101311'
+citation: "Tai, K. W. H., & Zuo, M. (2024). The development of an ESL teacher's ability in constructing a virtual translanguaging space in synchronous online language tutorials.<i>Linguistics and Education</i>, 83, 101311. https://doi.org/10.1016/j.linged.2024.101311"
 ---
 <!-- more -->
 
