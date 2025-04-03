@@ -32,14 +32,6 @@ Applied Linguistics and TESOL *(Commendation)*
 
 English Language and Literature *(Commendation)*  
 
-### **BA | Shenyang Normal University, PRC** *(Sep 2000 - Jul 2004)*  <br>
-
-**School of Foreign Languages**   
-
-English Teaching  
-
-<br><br>
-
 Work experience
 ======
 ### **Huizhou University, Guangdong** *(Aug 2022 - Present)*  
