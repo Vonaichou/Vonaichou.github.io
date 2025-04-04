@@ -81,6 +81,8 @@ publication_category:
     title: 'Journal Articles' 
   books:
     title: 'Books'
+  reviews:
+    title: 'Invited Book Reviews'
   conferences:
     title: 'Conference Papers'
 
